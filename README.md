@@ -1,2 +1,2 @@
-# Sandbox for tests and trials with GitHub Action in a monorepo context
+# Sandbox for tests and trials with GitHub Actions in a monorepo context
 
